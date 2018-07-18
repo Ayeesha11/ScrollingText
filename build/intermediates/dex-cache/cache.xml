@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_c64d058af6867ca27625659dc322a6757e4449f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\314d381fe82d90197c6031cd01c4977e75394856\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cd37a0ddb9aa0df36db72b8c3306c8921a0d001f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\38c7a2eccdd21fb5a8fd36cf62dcd78cf7425b12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_2bbb8198ecf5d863febec7493e719338efae8a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\01c2ae3db19afdea9fd60032e7b8c9140c5f9b6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_64f75e7f6539634005ada34c1a71f090055e5269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\0c1c44d1e642dd2c222497b71c4170caa40b0cf7\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fc788e81f8e457990642e3d1a956d1ee09d880ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\cf0f1b1491fa43016de462825283fd8a275c3048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_42e6db2e29cbf59b1f1e41ceb76002aba0d68097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\c025098b19bbe668fb7c7e8503ed9dd8a7badb2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_3b948465838bc3aa8fcbf299ad0050990a8f47eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\0c1c44d1e642dd2c222497b71c4170caa40b0cf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_e0077148379355901ebcd219657b5aa06701f6e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\f17108b48716230516233e534459a6bdcfe4da10\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_60b132c5dac140faedc83954f4b257dd1ec84fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\817a73722c95aa8b51a183a6877a702b8b2b0d8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_b669963464acf234666778dd1fcf770af313ca7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\eef55f25e1e484de88c4ae6b04709f966bdef082\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e3dbb67bfab53dfba605425952f4328cef257366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\314d381fe82d90197c6031cd01c4977e75394856\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_51135c18903180282f4e768c73ad8fa9195704a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\eef55f25e1e484de88c4ae6b04709f966bdef082\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_a1f4cf2a7da5721698dd467f61018101cb75c898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\38c7a2eccdd21fb5a8fd36cf62dcd78cf7425b12\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1b7a7315a948edef7c977428579eb54c9b38263c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLDE\.android\build-cache\f17108b48716230516233e534459a6bdcfe4da10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\BLDE\Desktop\Ayeesha\android-fundamentals-master\android-fundamentals-master\ScrollingText\app\build\intermediates\pre-dexed\debug\classes_55aaab6aea4f23023603f075a7adcf41ee7707dc.jar" />
+    </item>
+
+</items>
